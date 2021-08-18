@@ -1,0 +1,1 @@
+### This folder contains the solution to the stage 2 task 2 of HNG i8 Internship
