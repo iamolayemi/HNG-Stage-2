@@ -1,1 +1,5 @@
-### This folder contains the solution to the stage 2 task 4 of HNG i8 Internship. Please check task-1 folder for the solution to task 1.
+# HNG i8 Internship Task 2 Solution
+
+---
+
+Demo URL: https://hng-task-2-resume.herokuapp.com
